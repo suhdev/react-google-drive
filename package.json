@@ -1,0 +1,30 @@
+{
+  "name": "react-google-drive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhdev/react-google-drive.git"
+  },
+  "author": "Suhail Abood <suhail.abood@gmail.com> (suhailabood.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhdev/react-google-drive/issues"
+  },
+  "homepage": "https://github.com/suhdev/react-google-drive#readme",
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {
+    "jslint": "^0.10.1",
+    "jspm": "^0.16.37",
+    "tslint": "^3.11.0",
+    "typescript": "^1.8.10"
+  }
+}
